@@ -16,6 +16,31 @@ root.render(
     <p className="cardDescription"> Card Description.Card DescriptionCard Description.</p> 
     <h3 className="cardFooter">Card Footer</h3>
   </div>
+  <div className="card">
+    <h3 className="cardTitle">Card Title</h3>
+    <p className="cardDescription"> Card Description.Card DescriptionCard Description.</p> 
+    <h3 className="cardFooter">Card Footer</h3>
+  </div>
+  <div className="card">
+    <h3 className="cardTitle">Card Title</h3>
+    <p className="cardDescription"> Card Description.Card DescriptionCard Description.</p> 
+    <h3 className="cardFooter">Card Footer</h3>
+  </div>
+  <div className="card">
+    <h3 className="cardTitle">Card Title</h3>
+    <p className="cardDescription"> Card Description.Card DescriptionCard Description.</p> 
+    <h3 className="cardFooter">Card Footer</h3>
+  </div>
+  <div className="card">
+    <h3 className="cardTitle">Card Title</h3>
+    <p className="cardDescription"> Card Description.Card DescriptionCard Description.</p> 
+    <h3 className="cardFooter">Card Footer</h3>
+  </div>
+  <div className="card">
+    <h3 className="cardTitle">Card Title</h3>
+    <p className="cardDescription"> Card Description.Card DescriptionCard Description.</p> 
+    <h3 className="cardFooter">Card Footer</h3>
+  </div>
   </div>
   // <React.StrictMode>
   //   <App />
