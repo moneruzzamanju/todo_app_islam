@@ -5,10 +5,23 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
+
+// const headingStyle= {
+//   backgroundColor: "purple",
+//   color:"white",
+//   padding:"15px",
+//   textAlign:'center',
+// }
+
 root.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>
+  <div>
+  <h1 className="headingStyle">Todo App</h1>
+  <h3>todo title</h3>
+  <p>todo desc</p>
+  </div>
+  // <React.StrictMode>
+  //   <App />
+  // </React.StrictMode>
 );
 
 // If you want to start measuring performance in your app, pass a function
