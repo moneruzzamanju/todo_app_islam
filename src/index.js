@@ -6,18 +6,16 @@ import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
-// const headingStyle= {
-//   backgroundColor: "purple",
-//   color:"white",
-//   padding:"15px",
-//   textAlign:'center',
-// }
+
 
 root.render(
   <div>
   <h1 className="headingStyle">Todo App</h1>
-  <h3>todo title</h3>
-  <p>todo desc</p>
+  <div className="card">
+    <h3 className="cardTitle">Card Title</h3>
+    <p className="cardDescription"> Card Description.Card DescriptionCard Description.</p> 
+    <h3 className="cardFooter">Card Footer</h3>
+  </div>
   </div>
   // <React.StrictMode>
   //   <App />
